@@ -7,7 +7,7 @@ export default class Contact extends React.Component {
         <hr />
 
         <ul>
-          <li>This resume was coded in ReactJS with React+Router and can be accessed at <em>https://rkresheroku.herokuapp.com</em></li>
+          <li>This resume was coded in ReactJS with React+Router</li>
           <p></p>
           <li>The source code are available at <em>https://github.com/rodstaff/rkres</em> and <em>https://github.com/rodstaff/rkresheroku</em></li>
           <p></p>

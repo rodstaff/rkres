@@ -55,6 +55,7 @@ ul.header li a {
 .content {
   background-color: #FFF;
 }
-ul li .active {
- color: blue;
+.active {
+ /*background-color: #0099FF;*/
+ background-color: #FFD700;
 }
