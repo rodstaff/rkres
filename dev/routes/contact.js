@@ -14,7 +14,6 @@ export default class Contact extends React.Component {
           <p></p>
           <li>My Linkedin and Github accounts can be found on my website</li>
         </ul>
-        <img src={'../../IMG_5373.jpg'} />
         <h4>Contact Me!</h4>
       </div>
     );
