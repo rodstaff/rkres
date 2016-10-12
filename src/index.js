@@ -5,7 +5,6 @@ import App from '../dev/routes/app';
 import Home from '../dev/routes/home';
 import Contact from '../dev/routes/contact';
 
-
 ReactDOM.render(
   <Router history={browserHistory}>
     <Route path="/" component={App}>

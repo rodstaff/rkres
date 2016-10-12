@@ -5,9 +5,8 @@ export default class Contact extends React.Component {
     return (
       <div>
         <hr />
-
         <ul>
-          <li>This resume was coded in ReactJS with React+Router</li>
+          <li>This resume is coded in ReactJS with React+Router</li>
           <p></p>
           <li>The source code are available at <em>https://github.com/rodstaff/rkres</em> and <em>https://github.com/rodstaff/rkresheroku</em></li>
           <p></p>
@@ -15,8 +14,8 @@ export default class Contact extends React.Component {
           <p></p>
           <li>My Linkedin and Github accounts can be found on my website</li>
         </ul>
-
-        <h4>Thank you!</h4>
+        <img src={'../../IMG_5373.jpg'} />
+        <h4>Contact Me!</h4>
       </div>
     );
   }
