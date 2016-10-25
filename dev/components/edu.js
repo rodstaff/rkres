@@ -5,8 +5,8 @@ export default class Education extends React.Component {
   	return (
       <div>
         <h2>EDUCATION</h2>
-        <h3>MBA (Honors), Temple University, Fox School of Business, 2002.</h3>
-        <h3>Bachelor of Engineering, Major in Electronics Engineering, Chiba University, 1989.</h3>
+        <h3 class="noSpace">MBA (Honors), <d>Temple University, Fox School of Business.</d></h3>
+        <h3 class="noSpace">Bachelor of Engineering, <em>Major in Electronics Engineering</em>, <d>Chiba University.</d></h3>
       </div>
   	);
   }
