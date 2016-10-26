@@ -9,7 +9,7 @@ export default class Skills extends React.Component {
           <li>Coding Languages: &nbsp;&nbsp;JavaScript, Ruby.</li>
           <li>Database: &nbsp;&nbsp;PostgreSQL, MySQL.</li>
           <li>Front-End Dev't: &nbsp;&nbsp;ReactJS+Redux, JQuery, HTML, CSS.</li>
-          <li>Back-End Dev't: &nbsp;&nbsp;NodeJS, RoR, API's, MVC, REST/CRUD.</li>
+          <li>Back-End Dev't: &nbsp;&nbsp;NodeJS, RoR, OOP, MVC, REST/CRUD, TDD, API’s.</li>
           <li>Build Tools/Env: &nbsp;&nbsp;Webpack, Babel, Git, Heroku, UNIX.</li>
           <li>Bootcamp: &nbsp;&nbsp;Startup Institute, Web Development Track.</li>
         </ul>

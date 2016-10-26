@@ -22,11 +22,10 @@ module.exports = {
   plugins: [
   new webpack.optimize.DedupePlugin(),
   new webpack.optimize.OccurrenceOrderPlugin()
-  //new webpack.optimize.UglifyJsPlugin({ mangle: false, sourcemap: false }),
   ],
   devServer: {
   	publicPath: '/bsrc',    
-  	filename: 'bundle.js',  //localhost:8088/webpack-dev-server/bsrcbundle.js
+  	filename: 'bundle.js',  
   	host: '0.0.0.0',
   	port: 8087
   }
