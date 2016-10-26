@@ -18,7 +18,7 @@ export default class SM extends React.Component {
         <p class="noSpace"><em>A startup software solutions and management service provider</em></p>
 
         <h3 class="noSpace"><d>PAST EXPERIENCE:</d> &nbsp;&nbsp;Product Manager / Circuit Developer.</h3>
-        <p class="noSpace"><em>Electronics Manufacturing Companies</em></p>
+        <p class="noSpace"><em>Electronics manufacturing companies</em></p>
         <p class="someSpace"></p>
       </div>
   	);
